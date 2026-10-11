@@ -4,7 +4,7 @@
  * Example: const MAIN_APP_URL = "https://your-app-domain.example";
  * The URL is intentionally empty for now, as requested.
  */
-const MAIN_APP_URL = "";
+const MAIN_APP_URL = "https://gay-ai-sand.vercel.app";
 
 const menuToggle = document.querySelector(".menu-toggle");
 const primaryNav = document.querySelector(".primary-nav");
