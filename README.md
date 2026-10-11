@@ -45,3 +45,7 @@ This is a static website and can be served by Vercel, GitHub Pages, Netlify, or 
 - The website does not call an AI API and does not pretend to generate images. It is a brand/bio page for the separate main application.
 - Gallery images are illustrative visual studies for the brand introduction.
 - Gay AI is presented as an independent project and not as an official Google product.
+
+# Visit Site
+
+ https://abdulhadichoyon-dot.github.io/gay-ai-bio-page/
